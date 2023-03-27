@@ -1,0 +1,9 @@
+build/
+macos/
+pubspec.lock
+.metadata
+analysis_options.yaml
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.idea
